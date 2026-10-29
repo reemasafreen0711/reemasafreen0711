@@ -36,7 +36,7 @@ I enjoy turning ideas into functional products by combining frontend engineering
 
 - 🎓 **Education:** MCA (2025–2027)
 - 💻 **Specialization:** Full-Stack Web Development
-- 🤖 **Interests:** AI Applications, NLP, Speech Recognition
+- 🤖 **Interests:** AI Applications, Software Development 
 - 🌐 **Portfolio:** [Visit my portfolio](https://reemasafreen.vercel.app/)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/reema-safreen0711/)
 - 📧 **Email:** [Contact me](mailto:reemasafreen0711@gmail.com)
