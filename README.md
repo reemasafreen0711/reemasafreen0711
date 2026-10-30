@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # REEMA SAFREEN
@@ -9,7 +8,7 @@ Building meaningful digital experiences through clean code, thoughtful design, a
 
 <br/>
 
-<a href="https://reemasafreen.vercel.app/">
+<a href="https://reemasafreen0711.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/reemasafreen0711">
@@ -36,8 +35,8 @@ I enjoy turning ideas into functional products by combining frontend engineering
 
 - 🎓 **Education:** MCA (2025–2027)
 - 💻 **Specialization:** Full-Stack Web Development
-- 🤖 **Interests:** AI Applications, Software Development 
-- 🌐 **Portfolio:** [Visit my portfolio](https://reemasafreen.vercel.app/)
+- 🤖 **Interests:** AI Applications, Software Development
+- 🌐 **Portfolio:** [Visit my portfolio](https://reemasafreen0711.vercel.app/)
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/reema-safreen0711/)
 - 📧 **Email:** [Contact me](mailto:reemasafreen0711@gmail.com)
 - 🎯 **Goal:** Build useful, accessible, and scalable software solutions
@@ -97,7 +96,7 @@ A platform focused on connecting learners and mentors for knowledge sharing and 
 - Authentication and messaging features.
 - Administrative functionality.
 
-**Tech:** React · TypeScript · Tailwind CSS · Laravel · prisma · Postgresql 
+**Tech:** React · TypeScript · Tailwind CSS · Laravel · Prisma · PostgreSQL
 
 ### 03 · Rilax Tiles
 
@@ -137,7 +136,7 @@ My personal portfolio showcasing my development journey, technical skills, and s
 
 <div align="center">
 
-<a href="https://reemasafreen.vercel.app/">
+<a href="https://reemasafreen0711.vercel.app/">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-Visit%20Portfolio-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore portfolio" />
 </a>
 
@@ -187,7 +186,7 @@ Sri Sarada College for Women
 
 <div align="center">
 
-<a href="https://reemasafreen.vercel.app/">
+<a href="https://reemasafreen0711.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8B7CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://github.com/reemasafreen0711">
