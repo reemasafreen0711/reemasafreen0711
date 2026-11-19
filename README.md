@@ -14,7 +14,7 @@ Building meaningful digital experiences through clean code, thoughtful design, a
 <a href="https://github.com/reemasafreen0711">
   <img src="https://img.shields.io/badge/GITHUB-View%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/reema-safreen0711/">
+<a href="https://www.linkedin.com/in/reemasafreen0711/">
   <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:reemasafreen0711@gmail.com">
@@ -37,7 +37,7 @@ I enjoy turning ideas into functional products by combining frontend engineering
 - 💻 **Specialization:** Full-Stack Web Development
 - 🤖 **Interests:** AI Applications, Software Development
 - 🌐 **Portfolio:** [Visit my portfolio](https://reemasafreen0711.vercel.app/)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/reema-safreen0711/)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/reemasafreen0711/)
 - 📧 **Email:** [Contact me](mailto:reemasafreen0711@gmail.com)
 - 🎯 **Goal:** Build useful, accessible, and scalable software solutions
 
@@ -192,7 +192,7 @@ Sri Sarada College for Women
 <a href="https://github.com/reemasafreen0711">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.linkedin.com/in/reema-safreen0711/">
+<a href="https://www.linkedin.com/in/reemasafreen0711/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:reemasafreen0711@gmail.com">
